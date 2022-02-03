@@ -1,0 +1,25 @@
+.well li a{
+    list-style-type: none;
+    margin-bottom:5px;
+    color:black;
+    text-decoration: none;
+  }
+
+  body{
+    padding:10px;
+    font-family: 'Arial';
+    background-color: whitesmoke;
+    color: black;
+  }
+  
+  .h3{
+    color:#00c613;
+  }
+  
+  h1{
+    color:#00c613;
+  }
+  
+  img{
+    margin-right:20px;
+  }
